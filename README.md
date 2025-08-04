@@ -162,8 +162,3 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 - [Matplotlib](https://matplotlib.org/) - 图表绘制
 - [Seaborn](https://seaborn.pydata.org/) - 统计图表
 
-## 📞 联系方式
-
-- 📧 邮箱: your.email@example.com
-- 🐛 问题反馈: [GitHub Issues](https://github.com/yourusername/csv-chart-mcp/issues)
-- 💡 功能建议: [GitHub Discussions](https://github.com/yourusername/csv-chart-mcp/discussions)
