@@ -1,4 +1,4 @@
-# 📊 CSV图表分析MCP服务器
+# ChartDraw mcp server
 
 一个基于MCP协议的高性能CSV数据可视化服务器，支持多种图表类型和统计分析。
 
